@@ -1,0 +1,109 @@
+.mac-os .os-specific-element {
+  height: 85px !important;
+}
+
+.mac-os .mt3px {
+  margin-top: 3px !important;
+}
+
+.mac-os .mt2px {
+  margin-top: 2px !important;
+}
+
+.mac-os .mb1px {
+  margin-bottom: 1px !important;
+}
+
+.mac-os .ml1px {
+  margin-left: 1px !important;
+}
+
+.mac-os .ml3px {
+  margin-left: 3px !important;
+}
+
+.mac-os .mb1px {
+  margin-bottom: 1px !important;
+}
+
+.mac-os .mb2px {
+  margin-bottom: 2px !important;
+}
+
+.mac-os .pt1px {
+  padding-top: 1px !important;
+}
+
+.mac-os .pb1px {
+  padding-bottom: 1px !important;
+}
+
+.mac-os .pb3px {
+  padding-bottom: 3px !important;
+}
+
+.mac-os .pt2px {
+  padding-top: 2px !important;
+}
+
+.mac-os .pt3px {
+  padding-top: 3px !important;
+}
+
+.mac-os .pt4px {
+  padding-top: 4px !important;
+}
+
+.mac-os .left1px {
+  --tw-translate-x: 1px !important;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.mac-os .left2px {
+  --tw-translate-x: -2px !important;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.mac-os .top2px {
+  --tw-translate-y: -2px !important;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+.mac-os .top1px {
+  --tw-translate-y: -1px !important;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+    rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+    scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+}
+
+/* MAC FIREFOX */
+@-moz-document url-prefix() {
+  .mac-os-firefox .fz100px {
+    font-size: 100px;
+  }
+
+  .mac-os-firefox .MACFireFoxMarginLeft1px {
+    margin-left: 1px !important;
+  }
+
+  .mac-os-firefox .MACFireFoxMargintTop1px {
+    margin-top: 1px !important;
+  }
+
+  .mac-os-firefox .MACFireFoxPaddingTop1px {
+    padding-top: 1px !important;
+  }
+
+  .mac-os-firefox .MACFireFoxTranslateY1px {
+    --tw-translate-y: -1px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+}

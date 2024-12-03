@@ -1,0 +1,96 @@
+@-moz-document url-prefix() {
+  .marginTopDropDown {
+    margin-top: 0px;
+  }
+
+  .marginBottomStandard {
+    margin-bottom: 0px;
+  }
+
+  .marginBottomSecure {
+    margin-bottom: 0px;
+  }
+
+  .marginTopStandard {
+    margin-top: 0px !important;
+  }
+
+  .paddingTopFF {
+    padding-top: 0px !important;
+  }
+
+  .MarginTopFF {
+    padding-top: 1px !important;
+  }
+
+  .scale0 {
+    scale: 1;
+  }
+
+  .genLinkPaddingBottom {
+    padding-bottom: 1px !important;
+  }
+
+  .marginTopFF {
+    margin-top: -1px !important;
+  }
+
+  .translateY6px {
+    transform: translateY(-6px) translateX(-69%) !important;
+  }
+
+  .padding2px {
+    --tw-translate-x: 1px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+
+  .translateY2px {
+    --tw-translate-y: 0px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+
+  .ffheight85px {
+    height: 85px !important;
+  }
+
+  .ffheight84px {
+    height: 84px !important;
+  }
+
+  .FireFoxTranslateX3px {
+    --tw-translate-x: -3px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+
+  .FireFoxTranslateX13px {
+    --tw-translate-x: -13px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+
+  .FireFoxTranslateX2px {
+    --tw-translate-x: -2px !important;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y))
+      rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y))
+      scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
+  }
+
+  .FireFoxMarginTop0px {
+    margin-top: 0px !important;
+  }
+
+  .FireFoxMarginTop1px {
+    margin-top: 1px !important;
+  }
+
+  .FireFoxMarginLeft1px {
+    margin-left: 1px !important;
+  }
+}
